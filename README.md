@@ -1,6 +1,8 @@
 # CMocka-Testing
 Testing CMocka for later use in GEKI unit tests. Figuring out assertions, mocks, etc.
 
+<b> Required: CMocka, CMake </b>
+
 Steps:
 1. Made c file (later files to test multiple file test cases)
 2. Made CMakeLists.txt file --> manually added include directories/link libraries paths to my Program Files (x86) folder, where I have my CMocka files.
